@@ -1,0 +1,42 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_acerca_de.xml" value="0.164" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_agregar.xml" value="0.1655" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_ajustes.xml" value="0.164" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_eliminar_registro.xml" value="0.172" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_importar_exportar.xml" value="0.1725" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_pass_maestra.xml" value="0.188" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_salir.xml" value="0.164" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable-anydpi/icono_todas.xml" value="0.164" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/drawable/encabezado.xml" value="0.1655" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/activity_agregar_password.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/activity_detalle_registro.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/activity_logeo_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/cuadro_dialogo_editar_eliminar.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/cuadro_dialogo_eliminar_todos_registros.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/cuadro_dialogo_ordenar_registros.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/cuadro_dialogo_password_maestra.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/cuadro_dialogo_total_registros.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/cuadro_dialogo_visualizar_imagen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/encabezado.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/fragment_f__acerca_de.xml" value="0.33" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/fragment_f__ajustes.xml" value="0.33" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/fragment_f__todas.xml" value="0.22" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/layout/item_password.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/menu/drawer_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/menu/menu_fragmento_todos.xml" value="0.25" />
+        <entry key="..\:/Users/Marco/AndroidStudioProjects/PasswordApp/app/src/main/res/menu/menu_guardar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

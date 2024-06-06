@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1032440444824",
+    "project_id": "password-app-5b4db",
+    "storage_bucket": "password-app-5b4db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032440444824:android:6f0bdd643020ecdb6b9ded",
+        "android_client_info": {
+          "package_name": "com.antoniojudith.managerpassordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032440444824-lfpqmv3a31i3oae53v9a3g69theilj1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antoniojudith.managerpassordapp",
+            "certificate_hash": "f57ba0e76d876b15590f113563a66ffe55f97f01"
+          }
+        },
+        {
+          "client_id": "1032440444824-fsg6gfhu078vk3ch6g4h1os8ek7hd5uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP53Uqv6CKmwmIaom79hPTo_J9jIQp1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032440444824-fsg6gfhu078vk3ch6g4h1os8ek7hd5uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
